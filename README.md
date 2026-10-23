@@ -1,5 +1,6 @@
 # LAB-02: Cifrado, credenciales y comunicaciones seguras
 
+- Profesor: Alexis Moises Montaño Araujo
 - Estudiante: Camilo Angulo
 - Materia: Gestión de Seguridad y Desempeño de Bases de Datos, Unidad II (tema 2.4)
 - Motor: PostgreSQL 16 en Docker
